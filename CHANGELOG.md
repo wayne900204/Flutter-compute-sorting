@@ -9,3 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2021-03-13
 ### Added
 - Flutter-compute-sorting
+
+## [0.0.2] - 2021-04-21
+- updated flutter version to 2.0.5
